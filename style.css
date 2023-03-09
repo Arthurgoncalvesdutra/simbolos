@@ -1,0 +1,21 @@
+  body
+  {
+    color: white;
+    background:linear-gradient(red 0%,LightCyan 25%,white 50%,Plum 75%,LightGreen 100%);
+  }
+  .heading
+  {
+    width: 80%;
+    font-size: 22px;
+  }
+  #camera 
+  {
+    border: 2px double olive;
+    width: 350px;
+    height: 300px; 
+  }
+  .nameOfObjects, #resultObjectName  , #resultObjectAccuracy
+  {
+    color: rgb(149, 0, 255);
+  }
+  .nameOfObjects{font-size: 54px;}
